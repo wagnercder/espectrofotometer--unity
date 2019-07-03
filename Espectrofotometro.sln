@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{CEEC2468-2791-BCEE-6C63-B012BF48C2A1}") = "Espectrofotometro", "Assembly-CSharp.csproj", "{236B611A-91A4-3536-A0C3-41513E2DEF98}"
+EndProject
+Project("{CEEC2468-2791-BCEE-6C63-B012BF48C2A1}") = "Espectrofotometro", "Assembly-CSharp-Editor.csproj", "{603D8FCE-FA24-8F61-DBAD-B7C19EBE8A55}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{236B611A-91A4-3536-A0C3-41513E2DEF98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{236B611A-91A4-3536-A0C3-41513E2DEF98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{236B611A-91A4-3536-A0C3-41513E2DEF98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{236B611A-91A4-3536-A0C3-41513E2DEF98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{603D8FCE-FA24-8F61-DBAD-B7C19EBE8A55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{603D8FCE-FA24-8F61-DBAD-B7C19EBE8A55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{603D8FCE-FA24-8F61-DBAD-B7C19EBE8A55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{603D8FCE-FA24-8F61-DBAD-B7C19EBE8A55}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
